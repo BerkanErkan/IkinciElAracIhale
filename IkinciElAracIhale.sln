@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkinciElAracIhale.API", "IkinciElAracIhale.API\IkinciElAracIhale.API.csproj", "{743AC461-9351-4F79-9B27-6E14D3D46989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743AC461-9351-4F79-9B27-6E14D3D46989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743AC461-9351-4F79-9B27-6E14D3D46989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743AC461-9351-4F79-9B27-6E14D3D46989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743AC461-9351-4F79-9B27-6E14D3D46989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A6A0F3-82DD-49A6-82AF-B6C3BF3D1AA1}
+	EndGlobalSection
+EndGlobal
